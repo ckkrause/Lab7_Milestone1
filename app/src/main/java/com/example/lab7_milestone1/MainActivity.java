@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
                 .build();
 
         notificationManager.notify(2, notification);
-
+        // Commit change
 
     }
 }
